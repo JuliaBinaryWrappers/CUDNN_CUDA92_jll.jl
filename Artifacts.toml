@@ -1,0 +1,17 @@
+[[CUDNN_CUDA92]]
+arch = "x86_64"
+git-tree-sha1 = "24b6a43cf3bbf82bd3da084bde2ec0d33a518a1d"
+libc = "glibc"
+os = "linux"
+
+    [[CUDNN_CUDA92.download]]
+    sha256 = "babcf5638693827fcbed543acd291a3f51a734bf4b1bfe666b5589ec2585514b"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA92_jll.jl/releases/download/CUDNN_CUDA92-v7.6.5+0/CUDNN_CUDA92.v7.6.5.x86_64-linux-gnu.tar.gz"
+[[CUDNN_CUDA92]]
+arch = "x86_64"
+git-tree-sha1 = "a60cb02b6e53ec8705b208dd4ff5c08a5a9870dc"
+os = "windows"
+
+    [[CUDNN_CUDA92.download]]
+    sha256 = "74a6fa143511f3585e43f05d8cc3265054f247fd6e3c6f33cbf587e0d82bbe69"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA92_jll.jl/releases/download/CUDNN_CUDA92-v7.6.5+0/CUDNN_CUDA92.v7.6.5.x86_64-w64-mingw32.tar.gz"
